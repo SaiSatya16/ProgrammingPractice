@@ -1,2 +1,2 @@
 
-from zigzag_traversal_matrix import *
+from permute_2_arrays import *
