@@ -1,2 +1,2 @@
 
-from duplicate_characters_string import *
+from zigzag_traversal_matrix import *
