@@ -1,2 +1,2 @@
 
-from permute_2_arrays import *
+from common_3_array import *
