@@ -1,2 +1,2 @@
 
-from common_3_array import *
+from twostack1array import *
